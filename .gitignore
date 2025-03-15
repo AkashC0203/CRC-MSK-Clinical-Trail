@@ -1,0 +1,10 @@
+# Data
+/data
+
+
+# Environment
+/.conda
+requirements.txt
+
+# Misc
+.DS_Store
